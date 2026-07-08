@@ -1,0 +1,2 @@
+# sqiz
+Telegram chat cleaner
